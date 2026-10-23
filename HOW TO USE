@@ -1,0 +1,7 @@
+<h1>How to run it in VS Code</h1>
+<p>1. Open Visual Studio Code.
+2. Create a file named helpmate.c.
+3. Paste the code into the file.
+4. Install a C compiler, such as GCC, if you haven't already.
+5. Compile and run the program in your terminal.
+For example, if GCC is installed:</p>
